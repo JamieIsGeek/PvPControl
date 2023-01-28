@@ -1,0 +1,11 @@
+name: PvPControl
+version: '${project.version}'
+main: dev.jamieisgeek.pvpcontrol.PvPControl
+api-version: 1.19
+authors: [ JamieIsGeek ]
+description: A plugin to control player PvP
+website: https://jamieisgeek.uk
+commands:
+  pvp:
+    description: PvPControl command
+    usage: /pvp <on|off>
